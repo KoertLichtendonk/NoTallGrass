@@ -1,0 +1,5 @@
+name: NoTallGrass
+version: 1.0.0
+author: "Koert Lichtendonk"
+main: nl.koertlichtendonk.spigotplugin.notallgrass.NoTallGrass
+api-version: 1.16

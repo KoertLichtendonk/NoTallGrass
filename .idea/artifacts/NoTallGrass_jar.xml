@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoTallGrass:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoTallGrass_jar</output-path>
+    <root id="archive" name="NoTallGrass.jar">
+      <element id="module-output" name="NoTallGrass" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.16.4-R0.1-20210114.220528-50.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
